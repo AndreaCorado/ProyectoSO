@@ -1,0 +1,30 @@
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\ProyectoSO_Grupo1.exe.config
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\ProyectoSO_Grupo1.exe
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\ProyectoSO_Grupo1.pdb
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.AssemblyReference.cache
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.SuggestedBindingRedirects.cache
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.Properties.Resources.resources
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.GenerateResource.cache
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.CoreCompileInputs.cache
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.exe
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.pdb
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.Form1.resources
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\MetroFramework.Design.dll
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\MetroFramework.dll
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\MetroFramework.Fonts.dll
+J:\UMG\Visual Studio COM\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\ProyectoSO_Grupo1.exe.config
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\ProyectoSO_Grupo1.exe
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\ProyectoSO_Grupo1.pdb
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\MetroFramework.dll
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.Form1.resources
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.Properties.Resources.resources
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.csproj.CopyComplete
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.exe
+C:\Users\Usuario\Desktop\UMG\3er año u\Sistemas Operativos 1\Parcial 2\ProyectoSO_Grupo1\ProyectoSO_Grupo1\ProyectoSO_Grupo1\obj\Debug\ProyectoSO_Grupo1.pdb
